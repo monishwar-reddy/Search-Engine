@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.mypy_cache/
+.pytest_cache/
+
+# Local databases and datasets
+data/
+*.zip
+*.tar.gz
+
+# IDEs
+.vscode/
+.idea/
+.gemini/
+.agents/
+.system_generated/
