@@ -19,9 +19,9 @@ coverage.xml
 .pytest_cache/
 
 # Local databases and datasets
-data/
 *.zip
 *.tar.gz
+data/qdrant_storage/.lock
 
 # IDEs
 .vscode/
